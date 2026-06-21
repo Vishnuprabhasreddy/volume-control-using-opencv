@@ -59,7 +59,7 @@ Hand-Volume-Control/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Hand-Volume-Control.git
+git clone https://github.com/Vishnuprabhasreddy/Hand-Volume-Control.git
 ```
 
 ### Navigate to the project folder
@@ -71,7 +71,7 @@ cd Hand-Volume-Control
 ### Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install OPENCV
 ```
 
 ---
